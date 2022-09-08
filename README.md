@@ -1,10 +1,11 @@
 ## Olá, me chamo Alvaro Fatini ! 
 ### Bem vindo ao meu perfil GitHub 👋
+#### Programo em Delphi desde 2020 e PHP desde 2022
 
 <div>
 <a href="https://github.com/alvarobitz">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarobitz&layout=compact&langs_count=7&theme=dracula"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=alvarobitz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarobitz&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=alvarobitz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Contatos:
